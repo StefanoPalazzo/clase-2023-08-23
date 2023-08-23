@@ -1,5 +1,7 @@
 import unittest
 
+from app.multi import multiplicacion
+
 class TestMulti(unittest.TestCase):
 
     def test_multi(self):
