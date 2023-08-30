@@ -11,3 +11,6 @@
 
 # Coverage
 [![Test Coverage](https://api.codeclimate.com/v1/badges/e76107c22b3d5f5c08cc/test_coverage)](https://codeclimate.com/github/StefanoPalazzo/clase-2023-08-23/test_coverage)
+
+
+[![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=Naereen/badges)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=StefanoPalazzo/clase-2023-08-23)
