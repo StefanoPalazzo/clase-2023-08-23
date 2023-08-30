@@ -15,4 +15,4 @@
 
 [![Contributors over time](https://contributor-graph-api.apiseven.com/contributors-svg?chart=contributorOverTime&repo=StefanoPalazzo/clase-2023-08-23)](https://www.apiseven.com/en/contributor-graph?chart=contributorOverTime&repo=StefanoPalazzo/clase-2023-08-23)
 
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StefanoPalazzo&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=StefanoPalazzo&theme=blue-green)](https://github.com/stefanopalazzo/github-readme-stats)
